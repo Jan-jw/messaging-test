@@ -1,0 +1,12 @@
+{
+    "login": {
+        "baseURL": "https://www.ebay.com/",
+        "loginURL": "https://www.ebay.com/signin/",
+        "username": "",
+        "password": ""
+
+    },
+    "cookies": [
+
+    ]
+}
